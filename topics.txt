@@ -1,0 +1,6 @@
+1) what is blockchain.
+2) advantages
+3) use cases
+4) public key cryptography
+5) Consesus Mechanism
+6) Smart Contracts
